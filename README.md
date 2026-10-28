@@ -1,19 +1,19 @@
 <!-- 
   ============================================================
-  ✨ ANIME README TEMPLATE v2
-  Замените всё в [КВАДРАТНЫХ СКОБКАХ] на свои данные.
+  ✨ ANIME README TEMPLATE v3 (Fixed Sizes + LoL Vibe)
   ============================================================
 -->
 
 <!-- ============ 1. БАННЕР + АНИМИРОВАННЫЙ ЗАГОЛОВОК ============ -->
+<!-- Высота баннера ограничена 300px, чтобы он не съедал весь экран -->
 <div align="center">
-  <img src="./gem-alert-makima.gif" width="100%" style="border-radius: 20px;" alt="Anime Banner"/>
+  <img src="./gem-alert-makima.gif" width="100%" height="300" style="object-fit: cover; border-radius: 20px;" alt="Anime Banner"/>
 </div>
 
 <div align="center">
   <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&width=700&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%2C+World!;I+am+%5B%D0%92%D0%90%D0%A8+%D0%9D%D0%98%D0%9A%5D;Future+Full-Stack+Developer;Anime+%26+Code+Enthusiast;%22Code+is+my+magic.%22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&width=700&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%2C+World!;I+am+Angelqq99;Future+Full-Stack+Developer;Anime+%26+Code+Enthusiast;%22Code+is+my+magic.%22" alt="Typing SVG" />
   </a>
 </div>
 
@@ -29,7 +29,7 @@
       <td width="50%">
         <h3>💫 Кто я?</h3>
         <p>
-          <i>"Вайбкод,аниме и шутки."</i>
+          <i>"Вайбкод, аниме и шутки."</i>
         </p>
         <p>
           🔭 Работаю над <b>своими проектами</b><br>
@@ -38,8 +38,8 @@
         </p>
       </td>
       <td width="50%" align="center">
-        <!-- Замените ссылку на свою аниме-картинку/гифку -->
-        <img src="jinx_wall.jpg" width="250" alt="anime side pic"/>
+        <!-- Картинка ограничена по ширине, чтобы не ломать таблицу -->
+        <img src="jinx_wall.jpg" width="250" style="border-radius: 15px;" alt="anime side pic"/>
       </td>
     </tr>
   </table>
@@ -50,8 +50,9 @@
   <img src="https://animequotes.uwuify.space/api?theme=jujutsu&border_radius=15&border_width=2" width="550" alt="Anime Quote"/>
 </div>
 
-<!-- ============ 5. РАЗДЕЛИТЕЛЬ ============ -->
-<img src="makima_wall.jpg" width="100%" alt="divider"/>
+<!-- ============ 5. РАЗДЕЛИТЕЛЬ (Ограничен по высоте!) ============ -->
+<!-- height="80" и object-fit: cover не дадут картинке растянуться на пол-экрана -->
+<img src="makima_wall.jpg" width="100%" height="80" style="object-fit: cover;" alt="divider"/>
 
 <!-- ============ 6. TECH STACK ============ -->
 <h2 align="center">🛠️ Tech Stack</h2>
@@ -80,8 +81,8 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
-<!-- ============ 7. РАЗДЕЛИТЕЛЬ ============ -->
-<img src="jane2.jpg" width="100%" alt="divider"/>
+<!-- ============ 7. РАЗДЕЛИТЕЛЬ (Ограничен по высоте!) ============ -->
+<img src="jane2.jpg" width="100%" height="80" style="object-fit: cover;" alt="divider"/>
 
 <!-- ============ 8. СТАТИСТИКА GITHUB ============ -->
 <h2 align="center">📊 GitHub Stats</h2>
@@ -100,54 +101,26 @@
   <img src="https://streak-stats.demolab.com/?user=Angelqq99&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=FF69B4&fire=FF69B4&currStreakLabel=A855F7" alt="GitHub Streak"/>
 </div>
 
-<!-- Трофеи  -->
+<!-- ============ 9. АЛЬТЕРНАТИВНЫЕ ВИДЖЕТЫ (ВМЕСТО ТРОФЕЕВ) ============ -->
+<h2 align="center">🎮 Gamer Vibe</h2>
+
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="./images/trophy.svg" alt="GitHub Trophies"/>
+  <!-- 1. GitHub Tier (Твой ранг как в Лиге Легенд) -->
+  <a href="https://github.com/chahyunwoo/github-tier">
+    <img src="https://github-tier.vercel.app/api?username=Angelqq99&theme=tokyonight" alt="GitHub Tier"/>
+  </a>
+  
+  <!-- 2. Terminal Stats (Хакерская статистика в терминале) -->
+  <a href="https://github.com/Angelqq99">
+    <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=Angelqq99&theme=tokyonight&headerStyle=mac" alt="Terminal Stats"/>
   </a>
 </div>
-
-<!-- График активности -->
-<div align="center">
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-profile-trophy.nixrajput.com/?username=Angelqq99&column=7&theme=algolia&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies"/>
-  </a>
-</div>
-
 
 <!-- ============ 10. ЗМЕЙКА ПО КОММИТАМ (Snake) ============ -->
 <!-- 
-  ⚠️ ТРЕБУЕТ НАСТРОЙКИ GitHub Actions!
-  Инструкция:
-  1. Создайте в этом же репозитории папку .github/workflows
-  2. В ней создайте файл snake.yml со следующим содержимым:
-  
-  name: Generate Snake
-  on:
-    schedule:
-      - cron: "0 */12 * * *"
-    workflow_dispatch:
-  jobs:
-    build:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk@v3
-          with:
-            github_user_name: ${{ github.repository_owner }}
-            outputs: |
-              dist/github-snake.svg
-              dist/github-snake-dark.svg?palette=github-dark
-        - uses: crazy-max/ghaction-github-pages@v3
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  
-  3. Дождитесь первого запуска Actions (или запустите вручную во вкладке Actions)
-  4. После этого раскомментируйте блок ниже
+  ⚠️ Если ты еще не настроил Змейку, она закомментирована. 
+  Инструкция по настройке осталась внутри комментария выше.
 -->
-
 <!--
 <h2 align="center">🐍 Contribution Snake</h2>
 <div align="center">
@@ -155,33 +128,31 @@
 </div>
 -->
 
-
-
-<!-- ============ 12. РАЗДЕЛИТЕЛЬ ============ -->
-<img src="jinx_wall2.jpg" width="100%" alt="divider"/>
+<!-- ============ 12. РАЗДЕЛИТЕЛЬ (Ограничен по высоте!) ============ -->
+<img src="jinx_wall2.jpg" width="100%" height="80" style="object-fit: cover;" alt="divider"/>
 
 <!-- ============ 13. КОНТАКТЫ ============ -->
 <h2 align="center">💌 Connect With Me</h2>
 
 <div align="center">
-  <a href="[ССЫЛКА_НА_ВАШ_TELEGRAM]">
+  <!-- ЗАМЕНИ ССЫЛКИ В КАВЫЧКАХ НА СВОИ -->
+  <a href="https://t.me/ТВОЙ_ТЕЛЕГРАМ">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="[ССЫЛКА_НА_ВАШ_DISCORD]">
+  <a href="https://discord.com/users/ТВОЙ_ID">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="[ССЫЛКА_НА_ВАШ_TWITTER]">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:[ВАШ_EMAIL]">
+  <a href="mailto:ТВОЯ_ПОЧТА@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="[ССЫЛКА_НА_MYANIMELIST]">
-    <img src="https://img.shields.io/badge/MyAnimeList-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white" alt="MAL"/>
   </a>
 </div>
 
-
+<!-- ============ 14. ФУТЕР ============ -->
+<br>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Angelqq99&label=Profile%20Views&color=A855F7&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Angelqq99?label=Followers&style=for-the-badge&color=FF69B4" alt="Followers"/>
+</div>
 
 <div align="center">
   <br>
