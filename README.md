@@ -128,8 +128,7 @@
 </div>
 -->
 
-<!-- ============ 12. РАЗДЕЛИТЕЛЬ (Ограничен по высоте!) ============ -->
-<img src="jinx_wall2.jpg" width="100%" height="500" style="object-fit: cover;" alt="divider"/>
+
 
 <!-- ============ 13. КОНТАКТЫ ============ -->
 <h2 align="center">💌 Connect With Me</h2>
