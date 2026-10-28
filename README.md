@@ -81,7 +81,7 @@
 </p>
 
 <!-- ============ 7. РАЗДЕЛИТЕЛЬ ============ -->
-<img src="makima_wall2.jpg" width="100%" alt="divider"/>
+<img src="jane2.jpg" width="100%" alt="divider"/>
 
 <!-- ============ 8. СТАТИСТИКА GITHUB ============ -->
 <h2 align="center">📊 GitHub Stats</h2>
@@ -114,8 +114,6 @@
   </a>
 </div>
 
-<!-- ============ 9. РАЗДЕЛИТЕЛЬ ============ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="divider"/>
 
 <!-- ============ 10. ЗМЕЙКА ПО КОММИТАМ (Snake) ============ -->
 <!-- 
