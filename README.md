@@ -91,7 +91,7 @@
       <td align="center" width="50%">
         <!-- Красивый анимированный заголовок для первого проекта -->
         <a href="https://github.com/Angelqq99/chinese_project">
-          <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,30&height=60&section=header&text=Chinese%20Project&fontSize=30&fontColor=ffffff&animation=fadeIn" alt="Chinese Project"/>
+          <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,30&height=60&section=header&text=Chinese%20Project&fontSize=30&fontColor=ffffff&animation=twinkling" alt="Chinese Project"/>
         </a>
         <!-- Описание проекта -->
         <p><i>Веб-приложение для изучения китайского языка</i></p>
@@ -113,7 +113,7 @@
     <tr>
       <td align="center" width="50%">
         <a href="https://github.com/Angelqq99/CurrencyConvector">
-          <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,24&height=60&section=header&text=Currency%20Converter&fontSize=30&fontColor=ffffff&animation=blinking" alt="Currency Converter"/>
+          <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,24&height=60&section=header&text=Currency%20Converter&fontSize=30&fontColor=ffffff&animation=twinkling" alt="Currency Converter"/>
         </a>
         <p><i>Конвертер валют с актуальными курсами</i></p>
         <a href="https://github.com/Angelqq99/CurrencyConvector">
@@ -122,7 +122,7 @@
       </td>
       <td align="center" width="50%">
         <a href="https://github.com/Angelqq99/Algorithms-Structures">
-          <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=13,18,25&height=60&section=header&text=Algorithms&fontSize=30&fontColor=ffffff&animation=scaleIn" alt="Algorithms"/>
+          <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=13,18,25&height=60&section=header&text=Algorithms&fontSize=30&fontColor=ffffff&animation=twinkling" alt="Algorithms"/>
         </a>
         <p><i>Мои решения задач по алгоритмам и структурам данных</i></p>
         <a href="https://github.com/Angelqq99/Algorithms-Structures">
