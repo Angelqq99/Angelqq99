@@ -8,7 +8,7 @@
 <!-- 1. АНИМЕ-БАННЕР (ГИФКА ИЛИ КАРТИНКА) -->
 <!-- Замените ссылку в src на прямую ссылку на вашу гифку/картинку -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3R6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7aD2saalBwwftBIY/giphy.gif" width="600" alt="Anime Banner">
+  <img src="./gem-alert-makima.gif" width="600" alt="Anime Banner">
 </div>
 
 <!-- 2. АНИМИРОВАННЫЙ ТЕКСТ (КАК БУДТО ПЕЧАТАЕТСЯ) -->
