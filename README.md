@@ -89,44 +89,46 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <!-- Красивый анимированный заголовок для первого проекта -->
+        <!-- Анимированный заголовок (Печатается название) -->
         <a href="https://github.com/Angelqq99/chinese_project">
           <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A855F7&background=0D1117&center=true&vCenter=true&width=350&height=50&lines=Chinese+Project;%E4%B8%AD%E6%96%87%E9%A1%B9%E7%9B%AE" alt="Chinese Project"/>
         </a>
-        <!-- Описание проекта -->
         <p><i>Веб-приложение для изучения китайского языка</i></p>
-        <!-- Сама карточка проекта -->
+        <!-- Карточка со статистикой -->
         <a href="https://github.com/Angelqq99/chinese_project">
-          <!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=Angelqq99&repo=chinese_project&theme=tokyonight&bg_color=0D1117&title_color=A855F7&icon_color=FF69B4&text_color=C9D1D9&hide_border=true" alt="Project 1"/>-->
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Angelqq99&repo=chinese_project&theme=tokyonight&bg_color=0D1117&title_color=A855F7&icon_color=FF69B4&text_color=C9D1D9&hide_border=true" alt="Project 1"/>
         </a>
       </td>
+      
       <td align="center" width="50%">
         <a href="https://github.com/Angelqq99/calculator_c3-22">
           <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FF69B4&background=0D1117&center=true&vCenter=true&width=350&height=50&lines=Calculator+C3-22;React+%2B+Tailwind" alt="Calculator"/>
         </a>
         <p><i>Стильный калькулятор на React</i></p>
         <a href="https://github.com/Angelqq99/calculator_c3-22">
-          <!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=Angelqq99&repo=calculator_c3-22&theme=tokyonight&bg_color=0D1117&title_color=A855F7&icon_color=FF69B4&text_color=C9D1D9&hide_border=true" alt="Project 2"/>-->
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Angelqq99&repo=calculator_c3-22&theme=tokyonight&bg_color=0D1117&title_color=A855F7&icon_color=FF69B4&text_color=C9D1D9&hide_border=true" alt="Project 2"/>
         </a>
       </td>
     </tr>
+    
     <tr>
       <td align="center" width="50%">
         <a href="https://github.com/Angelqq99/CurrencyConvector">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FF69B4&background=0D1117&center=true&vCenter=true&width=350&height=50&lines=Currency+Converter;React+%2B+Tailwind" alt="Currency Converter"/>
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A855F7&background=0D1117&center=true&vCenter=true&width=350&height=50&lines=Currency+Converter;%D0%9A%D0%BE%D0%BD%D0%B2%D0%B5%D1%80%D1%82%D0%B5%D1%80+%D0%B2%D0%B0%D0%BB%D1%8E%D1%82" alt="Currency Converter"/>
         </a>
         <p><i>Конвертер валют с актуальными курсами</i></p>
         <a href="https://github.com/Angelqq99/CurrencyConvector">
-          <!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=Angelqq99&repo=CurrencyConvector&theme=tokyonight&bg_color=0D1117&title_color=A855F7&icon_color=FF69B4&text_color=C9D1D9&hide_border=true" alt="Project 3"/>-->
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Angelqq99&repo=CurrencyConvector&theme=tokyonight&bg_color=0D1117&title_color=A855F7&icon_color=FF69B4&text_color=C9D1D9&hide_border=true" alt="Project 3"/>
         </a>
       </td>
+      
       <td align="center" width="50%">
         <a href="https://github.com/Angelqq99/Algorithms-Structures">
           <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FF69B4&background=0D1117&center=true&vCenter=true&width=350&height=50&lines=Algorithms;%26+Structures" alt="Algorithms"/>
         </a>
-        <p><i>Мои решения задач по алгоритмам и структурам данных</i></p>
+        <p><i>Мои решения задач по алгоритмам</i></p>
         <a href="https://github.com/Angelqq99/Algorithms-Structures">
-          <!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=Angelqq99&repo=Algorithms-Structures&theme=tokyonight&bg_color=0D1117&title_color=A855F7&icon_color=FF69B4&text_color=C9D1D9&hide_border=true" alt="Project 4"/>-->
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Angelqq99&repo=Algorithms-Structures&theme=tokyonight&bg_color=0D1117&title_color=A855F7&icon_color=FF69B4&text_color=C9D1D9&hide_border=true" alt="Project 4"/>
         </a>
       </td>
     </tr>
