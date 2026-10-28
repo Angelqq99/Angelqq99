@@ -51,8 +51,8 @@
 </div>
 
 <!-- ============ 5. РАЗДЕЛИТЕЛЬ (Ограничен по высоте!) ============ -->
-<!-- height="80" и object-fit: cover не дадут картинке растянуться на пол-экрана -->
-<img src="makima_wall.jpg" width="100%" height="80" style="object-fit: cover;" alt="divider"/>
+<!-- height="500" и object-fit: cover не дадут картинке растянуться на пол-экрана -->
+<img src="makima_wall.jpg" width="100%" height="500" style="object-fit: cover;" alt="divider"/>
 
 <!-- ============ 6. TECH STACK ============ -->
 <h2 align="center">🛠️ Tech Stack</h2>
@@ -82,7 +82,7 @@
 </p>
 
 <!-- ============ 7. РАЗДЕЛИТЕЛЬ (Ограничен по высоте!) ============ -->
-<img src="jane2.jpg" width="100%" height="80" style="object-fit: cover;" alt="divider"/>
+<img src="jane2.jpg" width="100%" height="500" style="object-fit: cover;" alt="divider"/>
 
 <!-- ============ 8. СТАТИСТИКА GITHUB ============ -->
 <h2 align="center">📊 GitHub Stats</h2>
@@ -129,7 +129,7 @@
 -->
 
 <!-- ============ 12. РАЗДЕЛИТЕЛЬ (Ограничен по высоте!) ============ -->
-<img src="jinx_wall2.jpg" width="100%" height="80" style="object-fit: cover;" alt="divider"/>
+<img src="jinx_wall2.jpg" width="100%" height="500" style="object-fit: cover;" alt="divider"/>
 
 <!-- ============ 13. КОНТАКТЫ ============ -->
 <h2 align="center">💌 Connect With Me</h2>
