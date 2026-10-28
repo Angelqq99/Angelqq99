@@ -89,46 +89,35 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <!-- Первый проект -->
+        <!-- Красивый анимированный заголовок для первого проекта -->
         <a href="https://github.com/Angelqq99/chinese_project">
           <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A855F7&background=0D1117&center=true&vCenter=true&width=350&height=50&lines=Chinese+Project;%E4%B8%AD%E6%96%87%E9%A1%B9%E7%9B%AE" alt="Chinese Project"/>
         </a>
+        <!-- Описание проекта -->
         <p><i>Веб-приложение для изучения китайского языка</i></p>
-        <a href="https://github.com/Angelqq99/chinese_project">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Angelqq99&repo=chinese_project&theme=tokyonight&bg_color=0D1117&title_color=A855F7&icon_color=FF69B4&text_color=C9D1D9&hide_border=true" alt="Project 1"/>
-        </a>
       </td>
       <td align="center" width="50%">
-        <!-- Второй проект -->
         <a href="https://github.com/Angelqq99/calculator_c3-22">
-          <img src="https://demolab.com" alt="Calculator"/>
+          <!-- Цвет изменен на A855F7 для единого стиля -->
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A855F7&background=0D1117&center=true&vCenter=true&width=350&height=50&lines=Calculator+C3-22;React+%2B+Tailwind" alt="Calculator"/>
         </a>
         <p><i>Стильный калькулятор на React</i></p>
-        <a href="https://github.com/Angelqq99/calculator_c3-22">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Angelqq99&repo=calculator_c3-22&theme=tokyonight&bg_color=0D1117&title_color=A855F7&icon_color=FF69B4&text_color=C9D1D9&hide_border=true" alt="Project 2"/>
-        </a>
       </td>
     </tr>
     <tr>
       <td align="center" width="50%">
-        <!-- Третий проект -->
         <a href="https://github.com/Angelqq99/CurrencyConvector">
-          <img src="https://demolab.com" alt="Currency Converter"/>
+          <!-- Цвет изменен на A855F7 для единого стиля -->
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A855F7&background=0D1117&center=true&vCenter=true&width=350&height=50&lines=Currency+Converter;React+%2B+Tailwind" alt="Currency Converter"/>
         </a>
         <p><i>Конвертер валют с актуальными курсами</i></p>
-        <a href="https://github.com/Angelqq99/CurrencyConvector">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Angelqq99&repo=CurrencyConvector&theme=tokyonight&bg_color=0D1117&title_color=A855F7&icon_color=FF69B4&text_color=C9D1D9&hide_border=true" alt="Project 3"/>
-        </a>
       </td>
       <td align="center" width="50%">
-        <!-- Четвертый проект -->
         <a href="https://github.com/Angelqq99/Algorithms-Structures">
-          <img src="https://demolab.com" alt="Algorithms"/>
+          <!-- Цвет изменен на A855F7 для единого стиля -->
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A855F7&background=0D1117&center=true&vCenter=true&width=350&height=50&lines=Algorithms;%26+Structures" alt="Algorithms"/>
         </a>
         <p><i>Мои решения задач по алгоритмам и структурам данных</i></p>
-        <a href="https://github.com/Angelqq99/Algorithms-Structures">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Angelqq99&repo=Algorithms-Structures&theme=tokyonight&bg_color=0D1117&title_color=A855F7&icon_color=FF69B4&text_color=C9D1D9&hide_border=true" alt="Project 4"/>
-        </a>
       </td>
     </tr>
   </table>
@@ -159,6 +148,10 @@
     <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=Angelqq99&theme=tokyonight&headerStyle=mac" alt="Terminal Stats"/>
   </a>
 </div>
+
+<!-- ============ 12. РАЗДЕЛИТЕЛЬ ============ -->
+<!-- Если у тебя есть jinx_wall2.jpg, раскомментируй строчку ниже -->
+<!-- <img src="jinx_wall2.jpg" width="100%" height="80" style="object-fit: cover; border-radius: 10px;" alt="divider"/> -->
 
 <!-- ============ 13. КОНТАКТЫ ============ -->
 <h2 align="center">💌 Connect With Me</h2>
