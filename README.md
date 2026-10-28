@@ -97,7 +97,7 @@
 
 <!-- Стрик (серия дней с коммитами) -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=[ВАШ_НИКНЕЙМ]&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=FF69B4&fire=FF69B4&currStreakLabel=A855F7" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Angelqq99&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=FF69B4&fire=FF69B4&currStreakLabel=A855F7" alt="GitHub Streak"/>
 </div>
 
 <!-- Трофеи (геймификация) -->
@@ -110,7 +110,7 @@
 <!-- График активности -->
 <div align="center">
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=[ВАШ_НИКНЕЙМ]&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=FF69B4&point=FFFFFF&area=true&area_color=A855F7" alt="Activity Graph" width="100%"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Angelqq99]&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=FF69B4&point=FFFFFF&area=true&area_color=A855F7" alt="Activity Graph" width="100%"/>
   </a>
 </div>
 
@@ -158,7 +158,7 @@
 
 
 <!-- ============ 12. РАЗДЕЛИТЕЛЬ ============ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" alt="divider"/>
+<img src="jinx_wall2.jpg" width="100%" alt="divider"/>
 
 <!-- ============ 13. КОНТАКТЫ ============ -->
 <h2 align="center">💌 Connect With Me</h2>
