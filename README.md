@@ -88,24 +88,43 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center">
+      <td align="center" width="50%">
+        <!-- Красивый анимированный заголовок для первого проекта -->
+        <a href="https://github.com/Angelqq99/chinese_project">
+          <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,30&height=60&section=header&text=Chinese%20Project&fontSize=30&fontColor=ffffff&animation=fadeIn" alt="Chinese Project"/>
+        </a>
+        <!-- Описание проекта -->
+        <p><i>Веб-приложение для изучения китайского языка</i></p>
+        <!-- Сама карточка проекта -->
         <a href="https://github.com/Angelqq99/chinese_project">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Angelqq99&repo=chinese_project&theme=tokyonight&bg_color=0D1117&title_color=A855F7&icon_color=FF69B4&text_color=C9D1D9&hide_border=true" alt="Project 1"/>
         </a>
       </td>
-      <td align="center">
+      <td align="center" width="50%">
+        <a href="https://github.com/Angelqq99/calculator_c3-22">
+          <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=header&text=Calculator&fontSize=30&fontColor=ffffff&animation=twinkling" alt="Calculator"/>
+        </a>
+        <p><i>Стильный калькулятор на React</i></p>
         <a href="https://github.com/Angelqq99/calculator_c3-22">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Angelqq99&repo=calculator_c3-22&theme=tokyonight&bg_color=0D1117&title_color=A855F7&icon_color=FF69B4&text_color=C9D1D9&hide_border=true" alt="Project 2"/>
         </a>
       </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" width="50%">
+        <a href="https://github.com/Angelqq99/CurrencyConvector">
+          <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,24&height=60&section=header&text=Currency%20Converter&fontSize=30&fontColor=ffffff&animation=blinking" alt="Currency Converter"/>
+        </a>
+        <p><i>Конвертер валют с актуальными курсами</i></p>
         <a href="https://github.com/Angelqq99/CurrencyConvector">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Angelqq99&repo=CurrencyConvector&theme=tokyonight&bg_color=0D1117&title_color=A855F7&icon_color=FF69B4&text_color=C9D1D9&hide_border=true" alt="Project 3"/>
         </a>
       </td>
-      <td align="center">
+      <td align="center" width="50%">
+        <a href="https://github.com/Angelqq99/Algorithms-Structures">
+          <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=13,18,25&height=60&section=header&text=Algorithms&fontSize=30&fontColor=ffffff&animation=scaleIn" alt="Algorithms"/>
+        </a>
+        <p><i>Мои решения задач по алгоритмам и структурам данных</i></p>
         <a href="https://github.com/Angelqq99/Algorithms-Structures">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Angelqq99&repo=Algorithms-Structures&theme=tokyonight&bg_color=0D1117&title_color=A855F7&icon_color=FF69B4&text_color=C9D1D9&hide_border=true" alt="Project 4"/>
         </a>
