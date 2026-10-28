@@ -111,7 +111,7 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/Angelqq99/CurrencyConvector">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A855F7&background=0D1117&center=true&vCenter=true&width=350&height=50&lines=Currency+Converter;%D0%9A%D0%BE%D0%BD%D0%B2%D0%B5%D1%80%D1%82%D0%B5%D1%80+%D0%B2%D0%B0%D0%BB%D1%8E%D1%82" alt="Currency Converter"/>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A855F7&background=0D1117&center=true&vCenter=true&width=350&height=50&lines=Currency+Converter;" alt="Currency Converter"/>
       </a>
       <p><i>Конвертер валют с актуальными курсами</i></p>
       <a href="https://github.com/Angelqq99/CurrencyConvector">
@@ -120,7 +120,7 @@
     
   <td align="center" width="50%">
     <a href="https://github.com/Angelqq99/Algorithms-Structures">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FF69B4&background=0D1117&center=true&vCenter=true&width=350&height=50&lines=Algorithms+-+Structures;;%D0%9A%D0%BE%D0%BD%D0%B2%D0%B5%D1%80%D1%82%D0%B5%D1%80+%D0%B2%D0%B0%D0%BB%D1%8E%D1%82" alt="Algorithms"/>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FF69B4&background=0D1117&center=true&vCenter=true&width=350&height=50&lines=Algorithms+-+Structures;" alt="Algorithms"/>
     </a>
     <p><i>Мои решения задач по алгоритмам</i></p>
     <a href="https://github.com/Angelqq99/Algorithms-Structures">
