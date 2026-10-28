@@ -100,7 +100,7 @@
       
   <td align="center" width="50%">
     <a href="https://github.com/Angelqq99/calculator_c3-22">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FF69B4&background=0D1117&center=true&vCenter=true&width=350&height=50&lines=Calculator+C3-22;React+%2B+Tailwind" alt="Calculator"/>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FF69B4&background=0D1117&center=true&vCenter=true&width=350&height=50&lines=Calculator+C3-22" alt="Calculator"/>
     </a>
     <p><i>Стильный калькулятор на React</i></p>
     <a href="https://github.com/Angelqq99/calculator_c3-22">
