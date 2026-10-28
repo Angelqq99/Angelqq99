@@ -1,11 +1,10 @@
 <!-- 
   ============================================================
-  ✨ ANIME README TEMPLATE v4 (Projects + Fixed Sizes)
+  ✨ ANIME README TEMPLATE v5 (Clean Projects, No Broken Cards)
   ============================================================
 -->
 
 <!-- ============ 1. БАННЕР + АНИМИРОВАННЫЙ ЗАГОЛОВОК ============ -->
-<!-- Высота 300px, чтобы баннер не съедал весь экран -->
 <div align="center">
   <img src="./gem-alert-makima.gif" width="100%" height="300" style="object-fit: cover; border-radius: 20px;" alt="Anime Banner"/>
 </div>
@@ -49,7 +48,7 @@
   <img src="https://animequotes.uwuify.space/api?theme=jujutsu&border_radius=15&border_width=2" width="550" alt="Anime Quote"/>
 </div>
 
-<!-- ============ 5. РАЗДЕЛИТЕЛЬ (Исправлена высота) ============ -->
+<!-- ============ 5. РАЗДЕЛИТЕЛЬ ============ -->
 <img src="makima_wall.jpg" width="100%" height="80" style="object-fit: cover; border-radius: 10px;" alt="divider"/>
 
 <!-- ============ 6. TECH STACK ============ -->
@@ -79,55 +78,44 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
-<!-- ============ 7. РАЗДЕЛИТЕЛЬ (Исправлена высота) ============ -->
+<!-- ============ 7. РАЗДЕЛИТЕЛЬ ============ -->
 <img src="jane2.jpg" width="100%" height="80" style="object-fit: cover; border-radius: 10px;" alt="divider"/>
 
-<!-- ============ 7.5. ОБЗОР РЕПОЗИТОРИЕВ ============ -->
+<!-- ============ 7.5. ОБЗОР РЕПОЗИТОРИЕВ (Только стильные баннеры) ============ -->
 <h2 align="center">🚀 Featured Projects</h2>
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="50%">
-        <!-- Красивый анимированный заголовок для первого проекта -->
         <a href="https://github.com/Angelqq99/chinese_project">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A855F7&background=0D1117&center=true&vCenter=true&width=350&height=50&lines=Chinese+Project;%E4%B8%AD%E6%96%87%E9%A1%B9%E7%9B%AE" alt="Chinese Project"/>
+          <!-- Красивая анимированная плашка с названием -->
+          <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,30&height=70&section=header&text=Chinese%20Project&fontSize=25&fontColor=ffffff&animation=fadeIn" alt="Chinese Project"/>
         </a>
-        <!-- Описание проекта -->
         <p><i>Веб-приложение для изучения китайского языка</i></p>
-        <!-- Сама карточка проекта -->
-        <a href="https://github.com/Angelqq99/chinese_project">
-          <!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=Angelqq99&repo=chinese_project&theme=tokyonight&bg_color=0D1117&title_color=A855F7&icon_color=FF69B4&text_color=C9D1D9&hide_border=true" alt="Project 1"/>-->
-        </a>
       </td>
+      
       <td align="center" width="50%">
         <a href="https://github.com/Angelqq99/calculator_c3-22">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FF69B4&background=0D1117&center=true&vCenter=true&width=350&height=50&lines=Calculator+C3-22;React+%2B+Tailwind" alt="Calculator"/>
+          <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=70&section=header&text=Calculator&fontSize=25&fontColor=ffffff&animation=fadeIn" alt="Calculator"/>
         </a>
         <p><i>Стильный калькулятор на React</i></p>
-        <a href="https://github.com/Angelqq99/calculator_c3-22">
-          <!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=Angelqq99&repo=calculator_c3-22&theme=tokyonight&bg_color=0D1117&title_color=A855F7&icon_color=FF69B4&text_color=C9D1D9&hide_border=true" alt="Project 2"/>-->
-        </a>
       </td>
     </tr>
+    
     <tr>
       <td align="center" width="50%">
         <a href="https://github.com/Angelqq99/CurrencyConvector">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A855F7&background=0D1117&center=true&vCenter=true&width=350&height=50&lines=Currency+Converter;%D0%9A%D0%BE%D0%BD%D0%B2%D0%B5%D1%80%D1%82%D0%B5%D1%80+%D0%B2%D0%B0%D0%BB%D1%8E%D1%82" alt="Currency Converter"/>
+          <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,24&height=70&section=header&text=Currency%20Converter&fontSize=25&fontColor=ffffff&animation=fadeIn" alt="Currency Converter"/>
         </a>
         <p><i>Конвертер валют с актуальными курсами</i></p>
-        <a href="https://github.com/Angelqq99/CurrencyConvector">
-          <!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=Angelqq99&repo=CurrencyConvector&theme=tokyonight&bg_color=0D1117&title_color=A855F7&icon_color=FF69B4&text_color=C9D1D9&hide_border=true" alt="Project 3"/>-->
-        </a>
       </td>
+      
       <td align="center" width="50%">
         <a href="https://github.com/Angelqq99/Algorithms-Structures">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FF69B4&background=0D1117&center=true&vCenter=true&width=350&height=50&lines=Algorithms;%26+Structures" alt="Algorithms"/>
+          <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=13,18,25&height=70&section=header&text=Algorithms&fontSize=25&fontColor=ffffff&animation=fadeIn" alt="Algorithms"/>
         </a>
         <p><i>Мои решения задач по алгоритмам и структурам данных</i></p>
-        <a href="https://github.com/Angelqq99/Algorithms-Structures">
-          <!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=Angelqq99&repo=Algorithms-Structures&theme=tokyonight&bg_color=0D1117&title_color=A855F7&icon_color=FF69B4&text_color=C9D1D9&hide_border=true" alt="Project 4"/>-->
-        </a>
       </td>
     </tr>
   </table>
@@ -150,7 +138,7 @@
   <img src="https://streak-stats.demolab.com/?user=Angelqq99&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=FF69B4&fire=FF69B4&currStreakLabel=A855F7" alt="GitHub Streak"/>
 </div>
 
-<!-- ============ 9. GAMER VIBE (Восстановлено) ============ -->
+<!-- ============ 9. GAMER VIBE ============ -->
 <div align="center">
   <br>
   <!-- Terminal Stats (Хакерская статистика в терминале) -->
@@ -160,7 +148,6 @@
 </div>
 
 <!-- ============ 12. РАЗДЕЛИТЕЛЬ ============ -->
-<!-- Если у тебя есть jinx_wall2.jpg, раскомментируй строчку ниже -->
 <!-- <img src="jinx_wall2.jpg" width="100%" height="80" style="object-fit: cover; border-radius: 10px;" alt="divider"/> -->
 
 <!-- ============ 13. КОНТАКТЫ ============ -->
