@@ -108,20 +108,6 @@
   </a>
 </div>
 
-<!-- ============ 10. ЗМЕЙКА ПО КОММИТАМ (Snake) ============ -->
-<!-- 
-  ⚠️ Если ты еще не настроил Змейку, она закомментирована. 
-  Инструкция по настройке осталась внутри комментария выше.
--->
-
-<h2 align="center">🐍 Contribution Snake</h2>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Angelqq99/Angelqq99/output/github-snake-dark.svg" alt="Snake animation" width="100%"/>
-</div>
-
-
-
-
 <!-- ============ 13. КОНТАКТЫ ============ -->
 <h2 align="center">💌 Connect With Me</h2>
 
