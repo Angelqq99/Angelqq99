@@ -97,7 +97,7 @@
         <p><i>Веб-приложение для изучения китайского языка</i></p>
         <!-- Сама карточка проекта -->
         <a href="https://github.com/Angelqq99/chinese_project">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Angelqq99&repo=chinese_project&theme=tokyonight&bg_color=0D1117&title_color=A855F7&icon_color=FF69B4&text_color=C9D1D9&hide_border=true" alt="Project 1"/>
+          <!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=Angelqq99&repo=chinese_project&theme=tokyonight&bg_color=0D1117&title_color=A855F7&icon_color=FF69B4&text_color=C9D1D9&hide_border=true" alt="Project 1"/>-->
         </a>
       </td>
       <td align="center" width="50%">
@@ -106,7 +106,7 @@
         </a>
         <p><i>Стильный калькулятор на React</i></p>
         <a href="https://github.com/Angelqq99/calculator_c3-22">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Angelqq99&repo=calculator_c3-22&theme=tokyonight&bg_color=0D1117&title_color=A855F7&icon_color=FF69B4&text_color=C9D1D9&hide_border=true" alt="Project 2"/>
+          <!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=Angelqq99&repo=calculator_c3-22&theme=tokyonight&bg_color=0D1117&title_color=A855F7&icon_color=FF69B4&text_color=C9D1D9&hide_border=true" alt="Project 2"/>-->
         </a>
       </td>
     </tr>
@@ -117,7 +117,7 @@
         </a>
         <p><i>Конвертер валют с актуальными курсами</i></p>
         <a href="https://github.com/Angelqq99/CurrencyConvector">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Angelqq99&repo=CurrencyConvector&theme=tokyonight&bg_color=0D1117&title_color=A855F7&icon_color=FF69B4&text_color=C9D1D9&hide_border=true" alt="Project 3"/>
+          <!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=Angelqq99&repo=CurrencyConvector&theme=tokyonight&bg_color=0D1117&title_color=A855F7&icon_color=FF69B4&text_color=C9D1D9&hide_border=true" alt="Project 3"/>-->
         </a>
       </td>
       <td align="center" width="50%">
@@ -126,7 +126,7 @@
         </a>
         <p><i>Мои решения задач по алгоритмам и структурам данных</i></p>
         <a href="https://github.com/Angelqq99/Algorithms-Structures">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Angelqq99&repo=Algorithms-Structures&theme=tokyonight&bg_color=0D1117&title_color=A855F7&icon_color=FF69B4&text_color=C9D1D9&hide_border=true" alt="Project 4"/>
+          <!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=Angelqq99&repo=Algorithms-Structures&theme=tokyonight&bg_color=0D1117&title_color=A855F7&icon_color=FF69B4&text_color=C9D1D9&hide_border=true" alt="Project 4"/>-->
         </a>
       </td>
     </tr>
