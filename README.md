@@ -7,7 +7,7 @@
 <!-- ============ 1. БАННЕР + АНИМИРОВАННЫЙ ЗАГОЛОВОК ============ -->
 <!-- Высота баннера ограничена 300px, чтобы он не съедал весь экран -->
 <div align="center">
-  <img src="./gem-alert-makima.gif" width="100%" height="300" style="object-fit: cover; border-radius: 20px;" alt="Anime Banner"/>
+  <img src="./gem-alert-makima.gif" width="100%" height="500" style="object-fit: cover; border-radius: 20px;" alt="Anime Banner"/>
 </div>
 
 <div align="center">
