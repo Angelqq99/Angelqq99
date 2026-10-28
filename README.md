@@ -6,7 +6,7 @@
 
 <!-- ============ 1. БАННЕР + АНИМИРОВАННЫЙ ЗАГОЛОВОК ============ -->
 <div align="center">
-  <img src="./gem-alert-makima.gif" width="100%" height="300" style="object-fit: cover; border-radius: 20px;" alt="Anime Banner"/>
+  <img src="./gem-alert-makima.gif" width="100%" height="500" style="object-fit: cover; border-radius: 20px;" alt="Anime Banner"/>
 </div>
 
 <div align="center">
@@ -49,7 +49,7 @@
 </div>
 
 <!-- ============ 5. РАЗДЕЛИТЕЛЬ ============ -->
-<img src="makima_wall.jpg" width="100%" height="80" style="object-fit: cover; border-radius: 10px;" alt="divider"/>
+<img src="makima_wall.jpg" width="100%" height="500" style="object-fit: cover; border-radius: 10px;" alt="divider"/>
 
 <!-- ============ 6. TECH STACK ============ -->
 <h2 align="center">🛠️ Tech Stack</h2>
@@ -79,7 +79,7 @@
 </p>
 
 <!-- ============ 7. РАЗДЕЛИТЕЛЬ ============ -->
-<img src="jane2.jpg" width="100%" height="80" style="object-fit: cover; border-radius: 10px;" alt="divider"/>
+<img src="jane2.jpg" width="100%" height="500" style="object-fit: cover; border-radius: 10px;" alt="divider"/>
 
 <!-- ============ 7.5. ОБЗОР РЕПОЗИТОРИЕВ (С анимированным текстом) ============ -->
 <h2 align="center">🚀 Featured Projects</h2>
@@ -158,7 +158,7 @@
 
 <!-- ============ 12. РАЗДЕЛИТЕЛЬ ============ -->
 <!-- Если у тебя есть jinx_wall2.jpg, раскомментируй строчку ниже -->
-<!-- <img src="jinx_wall2.jpg" width="100%" height="80" style="object-fit: cover; border-radius: 10px;" alt="divider"/> -->
+<!-- <img src="jinx_wall2.jpg" width="100%" height="500" style="object-fit: cover; border-radius: 10px;" alt="divider"/> -->
 
 <!-- ============ 13. КОНТАКТЫ ============ -->
 <h2 align="center">💌 Connect With Me</h2>
