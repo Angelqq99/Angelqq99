@@ -86,18 +86,32 @@
 <h2 align="center">🚀 Featured Projects</h2>
 
 <div align="center">
-  <!-- ЗАМЕНИ "ИМЯ_РЕПОЗИТОРИЯ_1" И "ИМЯ_РЕПОЗИТОРИЯ_2" НА РЕАЛЬНЫЕ НАЗВАНИЯ ТВОИХ ПРОЕКТОВ -->
-  <a href="https://github.com/Angelqq99/ИМЯ_РЕПОЗИТОРИЯ_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Angelqq99&repo=chinese_project&theme=tokyonight&bg_color=0D1117&title_color=A855F7&icon_color=FF69B4&text_color=C9D1D9&hide_border=true" alt="Project 1"/>
-  </a>
-  <a href="https://github.com/Angelqq99/ИМЯ_РЕПОЗИТОРИЯ_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Angelqq99&repo=calculator_c3-22&theme=tokyonight&bg_color=0D1117&title_color=A855F7&icon_color=FF69B4&text_color=C9D1D9&hide_border=true" alt="Project 2"/>
-  <a href="https://github.com/Angelqq99/ИМЯ_РЕПОЗИТОРИЯ_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Angelqq99&repo=CurrencyConvector&theme=tokyonight&bg_color=0D1117&title_color=A855F7&icon_color=FF69B4&text_color=C9D1D9&hide_border=true" alt="Project 3"/>
-  </a>
-     <a href="https://github.com/Angelqq99/ИМЯ_РЕПОЗИТОРИЯ_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Angelqq99&repo=Algorithms-Structures&theme=tokyonight&bg_color=0D1117&title_color=A855F7&icon_color=FF69B4&text_color=C9D1D9&hide_border=true" alt="Project 4"/>
-  </a>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Angelqq99/chinese_project">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Angelqq99&repo=chinese_project&theme=tokyonight&bg_color=0D1117&title_color=A855F7&icon_color=FF69B4&text_color=C9D1D9&hide_border=true" alt="Project 1"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Angelqq99/calculator_c3-22">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Angelqq99&repo=calculator_c3-22&theme=tokyonight&bg_color=0D1117&title_color=A855F7&icon_color=FF69B4&text_color=C9D1D9&hide_border=true" alt="Project 2"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Angelqq99/CurrencyConvector">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Angelqq99&repo=CurrencyConvector&theme=tokyonight&bg_color=0D1117&title_color=A855F7&icon_color=FF69B4&text_color=C9D1D9&hide_border=true" alt="Project 3"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Angelqq99/Algorithms-Structures">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Angelqq99&repo=Algorithms-Structures&theme=tokyonight&bg_color=0D1117&title_color=A855F7&icon_color=FF69B4&text_color=C9D1D9&hide_border=true" alt="Project 4"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <!-- ============ 8. СТАТИСТИКА GITHUB ============ -->
