@@ -101,14 +101,6 @@
   <img src="https://streak-stats.demolab.com/?user=Angelqq99&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=FF69B4&fire=FF69B4&currStreakLabel=A855F7" alt="GitHub Streak"/>
 </div>
 
-<!-- ============ 9. АЛЬТЕРНАТИВНЫЕ ВИДЖЕТЫ (ВМЕСТО ТРОФЕЕВ) ============ -->
-<h2 align="center">🎮 Gamer Vibe</h2>
-
-<div align="center">
-  <!-- 1. GitHub Tier (Твой ранг как в Лиге Легенд) -->
-  <a href="https://github.com/chahyunwoo/github-tier">
-    <img src="https://github-tier.vercel.app/api?username=Angelqq99&theme=tokyonight" alt="GitHub Tier"/>
-  </a>
   
   <!-- 2. Terminal Stats (Хакерская статистика в терминале) -->
   <a href="https://github.com/Angelqq99">
@@ -121,12 +113,12 @@
   ⚠️ Если ты еще не настроил Змейку, она закомментирована. 
   Инструкция по настройке осталась внутри комментария выше.
 -->
-<!--
+
 <h2 align="center">🐍 Contribution Snake</h2>
 <div align="center">
   <img src="https://raw.githubusercontent.com/Angelqq99/Angelqq99/output/github-snake-dark.svg" alt="Snake animation" width="100%"/>
 </div>
--->
+
 
 
 
