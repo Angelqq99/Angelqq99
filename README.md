@@ -88,10 +88,10 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[ВАШ_НИКНЕЙМ]&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=FF69B4&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Angelqq99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=FF69B4&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ВАШ_НИКНЕЙМ]&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angelqq99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
   </a>
 </div>
 
@@ -103,7 +103,7 @@
 <!-- Трофеи (геймификация) -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=[ВАШ_НИКНЕЙМ]&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Angelqq99&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies"/>
   </a>
 </div>
 
@@ -151,7 +151,7 @@
 <!--
 <h2 align="center">🐍 Contribution Snake</h2>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/[ВАШ_НИКНЕЙМ]/[ВАШ_НИКНЕЙМ]/output/github-snake-dark.svg" alt="Snake animation" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Angelqq99/Angelqq99/output/github-snake-dark.svg" alt="Snake animation" width="100%"/>
 </div>
 -->
 
