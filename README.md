@@ -1,13 +1,13 @@
 <!-- 
   ============================================================
-  ✨ ANIME README TEMPLATE v3 (Fixed Sizes + LoL Vibe)
+  ✨ ANIME README TEMPLATE v4 (Projects + Fixed Sizes)
   ============================================================
 -->
 
 <!-- ============ 1. БАННЕР + АНИМИРОВАННЫЙ ЗАГОЛОВОК ============ -->
-<!-- Высота баннера ограничена 300px, чтобы он не съедал весь экран -->
+<!-- Высота 300px, чтобы баннер не съедал весь экран -->
 <div align="center">
-  <img src="./gem-alert-makima.gif" width="100%" height="500" style="object-fit: cover; border-radius: 20px;" alt="Anime Banner"/>
+  <img src="./gem-alert-makima.gif" width="100%" height="300" style="object-fit: cover; border-radius: 20px;" alt="Anime Banner"/>
 </div>
 
 <div align="center">
@@ -17,7 +17,7 @@
   </a>
 </div>
 
-<!-- ============ 2. РАЗДЕЛИТЕЛЬ (анимированная линия) ============ -->
+<!-- ============ 2. РАЗДЕЛИТЕЛЬ ============ -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
 
 <!-- ============ 3. БЛОК "ОБО МНЕ" ============ -->
@@ -38,7 +38,6 @@
         </p>
       </td>
       <td width="50%" align="center">
-        <!-- Картинка ограничена по ширине, чтобы не ломать таблицу -->
         <img src="jinx_wall.jpg" width="250" style="border-radius: 15px;" alt="anime side pic"/>
       </td>
     </tr>
@@ -50,9 +49,8 @@
   <img src="https://animequotes.uwuify.space/api?theme=jujutsu&border_radius=15&border_width=2" width="550" alt="Anime Quote"/>
 </div>
 
-<!-- ============ 5. РАЗДЕЛИТЕЛЬ (Ограничен по высоте!) ============ -->
-<!-- height="500" и object-fit: cover не дадут картинке растянуться на пол-экрана -->
-<img src="makima_wall.jpg" width="100%" height="500" style="object-fit: cover;" alt="divider"/>
+<!-- ============ 5. РАЗДЕЛИТЕЛЬ (Исправлена высота) ============ -->
+<img src="makima_wall.jpg" width="100%" height="80" style="object-fit: cover; border-radius: 10px;" alt="divider"/>
 
 <!-- ============ 6. TECH STACK ============ -->
 <h2 align="center">🛠️ Tech Stack</h2>
@@ -81,8 +79,26 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
-<!-- ============ 7. РАЗДЕЛИТЕЛЬ (Ограничен по высоте!) ============ -->
-<img src="jane2.jpg" width="100%" height="500" style="object-fit: cover;" alt="divider"/>
+<!-- ============ 7. РАЗДЕЛИТЕЛЬ (Исправлена высота) ============ -->
+<img src="jane2.jpg" width="100%" height="80" style="object-fit: cover; border-radius: 10px;" alt="divider"/>
+
+<!-- ============ 7.5. ОБЗОР РЕПОЗИТОРИЕВ ============ -->
+<h2 align="center">🚀 Featured Projects</h2>
+
+<div align="center">
+  <!-- ЗАМЕНИ "ИМЯ_РЕПОЗИТОРИЯ_1" И "ИМЯ_РЕПОЗИТОРИЯ_2" НА РЕАЛЬНЫЕ НАЗВАНИЯ ТВОИХ ПРОЕКТОВ -->
+  <a href="https://github.com/Angelqq99/ИМЯ_РЕПОЗИТОРИЯ_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Angelqq99&repo=chinese_project&theme=tokyonight&bg_color=0D1117&title_color=A855F7&icon_color=FF69B4&text_color=C9D1D9&hide_border=true" alt="Project 1"/>
+  </a>
+  <a href="https://github.com/Angelqq99/ИМЯ_РЕПОЗИТОРИЯ_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Angelqq99&repo=calculator_c3-22&theme=tokyonight&bg_color=0D1117&title_color=A855F7&icon_color=FF69B4&text_color=C9D1D9&hide_border=true" alt="Project 2"/>
+  <a href="https://github.com/Angelqq99/ИМЯ_РЕПОЗИТОРИЯ_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Angelqq99&repo=CurrencyConvector&theme=tokyonight&bg_color=0D1117&title_color=A855F7&icon_color=FF69B4&text_color=C9D1D9&hide_border=true" alt="Project 3"/>
+  </a>
+     <a href="https://github.com/Angelqq99/ИМЯ_РЕПОЗИТОРИЯ_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Angelqq99&repo=Algorithms-Structures&theme=tokyonight&bg_color=0D1117&title_color=A855F7&icon_color=FF69B4&text_color=C9D1D9&hide_border=true" alt="Project 4"/>
+  </a>
+</div>
 
 <!-- ============ 8. СТАТИСТИКА GITHUB ============ -->
 <h2 align="center">📊 GitHub Stats</h2>
@@ -101,18 +117,23 @@
   <img src="https://streak-stats.demolab.com/?user=Angelqq99&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=FF69B4&fire=FF69B4&currStreakLabel=A855F7" alt="GitHub Streak"/>
 </div>
 
-  
-  <!-- 2. Terminal Stats (Хакерская статистика в терминале) -->
+<!-- ============ 9. GAMER VIBE (Восстановлено) ============ -->
+<div align="center">
+  <br>
+  <!-- Terminal Stats (Хакерская статистика в терминале) -->
   <a href="https://github.com/Angelqq99">
     <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=Angelqq99&theme=tokyonight&headerStyle=mac" alt="Terminal Stats"/>
   </a>
 </div>
 
+<!-- ============ 12. РАЗДЕЛИТЕЛЬ ============ -->
+<!-- Если у тебя есть jinx_wall2.jpg, раскомментируй строчку ниже -->
+<!-- <img src="jinx_wall2.jpg" width="100%" height="80" style="object-fit: cover; border-radius: 10px;" alt="divider"/> -->
+
 <!-- ============ 13. КОНТАКТЫ ============ -->
 <h2 align="center">💌 Connect With Me</h2>
 
 <div align="center">
-  <!-- ЗАМЕНИ ССЫЛКИ В КАВЫЧКАХ НА СВОИ -->
   <a href="https://t.me/ТВОЙ_ТЕЛЕГРАМ">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
