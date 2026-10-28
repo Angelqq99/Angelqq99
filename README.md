@@ -39,7 +39,7 @@
       </td>
       <td width="50%" align="center">
         <!-- Замените ссылку на свою аниме-картинку/гифку -->
-        <img src="https://media.giphy.com/media/Wp6nFd0mR9yWc/giphy.gif" width="250" alt="anime side pic"/>
+        <img src="jinx_wall.jpg" width="250" alt="anime side pic"/>
       </td>
     </tr>
   </table>
@@ -51,7 +51,7 @@
 </div>
 
 <!-- ============ 5. РАЗДЕЛИТЕЛЬ ============ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%" alt="divider"/>
+<img src="makima_wall.jpg" width="100%" alt="divider"/>
 
 <!-- ============ 6. TECH STACK ============ -->
 <h2 align="center">🛠️ Tech Stack</h2>
@@ -59,7 +59,6 @@
 <h4 align="center">Languages</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -68,7 +67,6 @@
 <h4 align="center">Frameworks & Libraries</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
 </p>
@@ -83,7 +81,7 @@
 </p>
 
 <!-- ============ 7. РАЗДЕЛИТЕЛЬ ============ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider"/>
+<img src="makima_wall2.jpg" width="100%" alt="divider"/>
 
 <!-- ============ 8. СТАТИСТИКА GITHUB ============ -->
 <h2 align="center">📊 GitHub Stats</h2>
@@ -159,20 +157,7 @@
 </div>
 -->
 
-<!-- ============ 11. СПОТИФАЙ — СЕЙЧАС ИГРАЕТ ============ -->
-<h2 align="center">🎧 Now Playing</h2>
-<div align="center">
-  <a href="https://open.spotify.com/user/[ВАШ_SPOTIFY_ID]">
-    <img src="https://novatorem-[ВАШ_НИКНЕЙМ].vercel.app/api/spotify" alt="Spotify Now Playing" width="400"/>
-  </a>
-</div>
 
-<!-- 
-  ℹ️ Виджет Spotify требует деплоя на Vercel.
-  Готовый шаблон: https://github.com/novatorem/novatorem
-  Просто сделайте Fork, задеплойте на Vercel и замените [ВАШ_НИКНЕЙМ]
-  в URL выше на ваш GitHub-ник. Пока не настроили — удалите этот блок.
--->
 
 <!-- ============ 12. РАЗДЕЛИТЕЛЬ ============ -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" alt="divider"/>
@@ -198,12 +183,7 @@
   </a>
 </div>
 
-<!-- ============ 14. ФУТЕР ============ -->
-<br>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=[ВАШ_НИКНЕЙМ]&label=Profile%20Views&color=A855F7&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/[ВАШ_НИКНЕЙМ]?label=Followers&style=for-the-badge&color=FF69B4" alt="Followers"/>
-</div>
+
 
 <div align="center">
   <br>
