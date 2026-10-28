@@ -110,7 +110,7 @@
 <!-- График активности -->
 <div align="center">
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="./images/activity-graph.svg" alt="Activity Graph" width="100%"/>
+    <img src="https://github-profile-trophy.nixrajput.com/?username=Angelqq99&column=7&theme=algolia&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies"/>
   </a>
 </div>
 
