@@ -8,6 +8,9 @@ on:
 jobs:
   update-widgets:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Важно! Даёт workflow право коммитить файлы
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
