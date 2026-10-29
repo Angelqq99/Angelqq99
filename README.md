@@ -1,10 +1,10 @@
 <!-- 
   ============================================================
-  ✨ ANIME README TEMPLATE v5 (Animated Projects + Full Code)
+  ✨ ANIME README TEMPLATE 
   ============================================================
 -->
 
-<!-- ============ 1. БАННЕР + АНИМИРОВАННЫЙ ЗАГОЛОВОК ============ -->
+<!-- ============  БАННЕР + АНИМИРОВАННЫЙ ЗАГОЛОВОК ============ -->
 <div align="center">
   <img src="./gem-alert-makima.gif" width="100%" height="500" style="object-fit: cover; border-radius: 20px;" alt="Anime Banner"/>
 </div>
@@ -16,10 +16,10 @@
   </a>
 </div>
 
-<!-- ============ 2. РАЗДЕЛИТЕЛЬ ============ -->
+<!-- ============ РАЗДЕЛИТЕЛЬ ============ -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
 
-<!-- ============ 3. БЛОК "ОБО МНЕ" ============ -->
+<!-- ============ БЛОК "ОБО МНЕ" ============ -->
 <h2 align="center">🌸 About Me</h2>
 
 <div align="center">
@@ -43,15 +43,15 @@
   </table>
 </div>
 
-<!-- ============ 4. ДИНАМИЧЕСКАЯ АНИМЕ-ЦИТАТА ============ -->
+<!-- ============ ДИНАМИЧЕСКАЯ АНИМЕ-ЦИТАТА ============ -->
 <div align="center">
   <img src="https://animequotes.uwuify.space/api?theme=jujutsu&border_radius=15&border_width=2" width="550" alt="Anime Quote"/>
 </div>
 
-<!-- ============ 5. РАЗДЕЛИТЕЛЬ ============ -->
+<!-- ============ РАЗДЕЛИТЕЛЬ ============ -->
 <img src="makima_wall.jpg" width="100%" height="500" style="object-fit: cover; border-radius: 10px;" alt="divider"/>
 
-<!-- ============ 6. TECH STACK ============ -->
+<!-- ============  TECH STACK ============ -->
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <h4 align="center">Languages</h4>
@@ -78,10 +78,10 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
-<!-- ============ 7. РАЗДЕЛИТЕЛЬ ============ -->
+
 <img src="jane2.jpg" width="100%" height="500" style="object-fit: cover; border-radius: 10px;" alt="divider"/>
 
-<!-- ============ 7.5. ОБЗОР РЕПОЗИТОРИЕВ (С анимированным текстом) ============ -->
+<!-- ============  ОБЗОР РЕПОЗИТОРИЕВ (С анимированным текстом) ============ -->
 <h2 align="center">🚀 Featured Projects</h2>
 
 <div align="center">
@@ -130,24 +130,13 @@
   </table>
 </div>
 
-<!-- ============ 8. СТАТИСТИКА GITHUB ============ -->
-<h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Angelqq99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=FF69B4&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angelqq99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
-  </a>
-</div>
 
 <!-- Стрик (серия дней с коммитами) -->
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Angelqq99&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=FF69B4&fire=FF69B4&currStreakLabel=A855F7" alt="GitHub Streak"/>
 </div>
 
-<!-- ============ 9. GAMER VIBE ============ -->
 <div align="center">
   <br>
   <!-- Terminal Stats (Хакерская статистика в терминале) -->
@@ -156,25 +145,7 @@
   </a>
 </div>
 
-<!-- ============ 12. РАЗДЕЛИТЕЛЬ ============ -->
-<!-- Если у тебя есть jinx_wall2.jpg, раскомментируй строчку ниже -->
-<!-- <img src="jinx_wall2.jpg" width="100%" height="500" style="object-fit: cover; border-radius: 10px;" alt="divider"/> -->
 
-<!-- ============ 13. КОНТАКТЫ ============ -->
-<h2 align="center">💌 Connect With Me</h2>
-
-<div align="center">
-  <!-- ⚠️ ВАЖНО: Замени эти ссылки на свои реальные контакты! -->
-  <a href="https://t.me/ТВОЙ_ТЕЛЕГРАМ">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="https://discord.com/users/ТВОЙ_ID">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="mailto:ТВОЯ_ПОЧТА@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
 
 <!-- ============ 14. ФУТЕР ============ -->
 <br>
